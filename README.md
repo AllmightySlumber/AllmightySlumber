@@ -35,7 +35,7 @@ dans l'environnement de vers planaires via des modèles supervisés.
 Analyse exploratoire complète et modèles de classification
 sur le dataset Titanic.
 `Python` `Pandas` `Scikit-learn`
-→ [Voir le projet](#)
+→ [Voir le projet](https://github.com/AllmightySlumber/Titanic)
 
 ---
 
