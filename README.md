@@ -29,7 +29,7 @@ une structure dédiée à cet objectif.
 Collaboration avec des biologistes pour reconnaître des molécules
 dans l'environnement de vers planaires via des modèles supervisés.
 `Python` `Scikit-learn` `KNN` `Random Forest`
-→ [Voir le projet](#)
+→ [Voir le projet](https://github.com/AllmightySlumber/PlanarIA)
 
 ### 🚢 Titanic — Analyse prédictive
 Analyse exploratoire complète et modèles de classification
